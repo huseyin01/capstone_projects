@@ -48,6 +48,19 @@ Here are some of the plots and heatmap of correlation matrix:
    *  Mostly outliers are on the larger side.
    *  Alcohol has an irregular shaped distribution but it does not have pronounced outliers.
 
+# 3. Preprocessing
+
+  * We made initial **future elimination** with using OLS relults (backward elimination technic). OLS summary showed us the most unrelated 3 features are "citric acid", "cholorides" and "total sulfur dioxide". 
+  * We will also used the above EDA findings and removed additional 3 features which are clearly have almost even relationship with “quality”; "free sulfur dioxide", "fixed acidity" and "residual sugar". 
+  * In order to improve our model performances all the **outliers have been cleaned** from the data set.
+  * We used "proncipal companant analysis" **(PCA) for dimension reduction** and we got the below result:
+
+<img src="images/pca.png">
+  
+  
+  
+  
+
 
 
 
