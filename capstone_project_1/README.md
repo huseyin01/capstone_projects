@@ -1,4 +1,4 @@
-# Wine Analysis
+# Wine Analysis: Finding quality 
 
 # 1. Introduction
 
