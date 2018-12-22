@@ -21,5 +21,7 @@
 
 ![](images/winedataset.png)
 
+![Statistical Summary](images/statistics.png)
+
 
 
