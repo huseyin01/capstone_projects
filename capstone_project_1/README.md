@@ -1,12 +1,13 @@
 # Wine Analysis
 
-# 1. INTRODUCTION
+# 1. Introduction
 
   ## 1.a. Why we need to do this analysis
   
   Everyone has an idea about the concept of wine quality. But when comes to defining precisely what that means there is often silence. For most wine critics, quality refers to what they personally consider ‘good’ versus ‘bad’ wine, and correspondingly desirable versus aversive. This is usually framed within the context of conformity relative to established, learned norms for the wines concerned. This indicates, and rightly so, that quality is not only subjective, but also involves both intrinsic (sensory) and extrinsic (contextual) components.
   
   There are specific reasons why it can better to ignore wine tasting notes, such as;
+  
     * Tasting Notes can Prejudice or Influence Your Perception
     * Tasting Notes Can Set You Up for Failure
     * Tasting Notes Can Be Overwritten and Too Complicated
@@ -21,7 +22,18 @@
 
 ![](images/winedataset.png)
 
-![Statistical Summary](images/statistics.png)
+# 2. Data Wrangling and EDA
+
+After data wrangling, in order to make some insights and get a better understanding EDA was implemented. And below plots created for this purpose:
+  * Histogram plots
+  * Distribution plot with curves
+  * Scatter plots
+  * Box plots
+  * Violin plots
+ 
+![](images/eda.png)
+  
+  
 
 
 
