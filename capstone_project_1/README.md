@@ -40,13 +40,13 @@ Here are some of the plots and heatmap of correlation matrix:
   
  ## EDA Findings
   
-    •	All variables have outliers
-    •	Quality has most values concentrated in the categories 5, 6 and 7. Only a small proportion is in the categories [3, 4] and [8, 9] and none in the categories [1, 2] and 10.
-    •	Fixed acidity, volatile acidity and citric acid have outliers. If those outliers are eliminated distribution of the variables may be taken to be symmetric.
-    •	Residual sugar has a positively skewed distribution; even after eliminating the outliers distribution will remain skewed.
-    •	Some of the variables, e.g . free sulphur dioxide, density, have a few outliers but these are very different from the rest.
-    •	Mostly outliers are on the larger side.
-    •	Alcohol has an irregular shaped distribution but it does not have pronounced outliers.
+   *  All variables have outliers
+   *  Quality has most values concentrated in the categories 5, 6 and 7. Only a small proportion is in the categories [3, 4] and [8, 9] and none in the categories [1, 2] and 10.
+   *  Fixed acidity, volatile acidity and citric acid have outliers. If those outliers are eliminated distribution of the variables may be taken to be symmetric.
+   *  Residual sugar has a positively skewed distribution; even after eliminating the outliers distribution will remain skewed.
+   *  Some of the variables, e.g . free sulphur dioxide, density, have a few outliers but these are very different from the rest.
+   *  Mostly outliers are on the larger side.
+   *  Alcohol has an irregular shaped distribution but it does not have pronounced outliers.
 
 
 
