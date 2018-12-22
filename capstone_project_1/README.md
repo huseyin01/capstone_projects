@@ -31,11 +31,12 @@ After data wrangling, in order to make some insights and get a better understand
   * Box plots
   * Violin plots
  
-Here are some of the plots of EDA:
+Here are some of the plots and heatmap of correlation matrix:
 
 <img src="images/histogram.png">
 <img src="images/scatter.png">
 <img src="images/box.png">
+<img src="images/correlation.png">
   
   
 
