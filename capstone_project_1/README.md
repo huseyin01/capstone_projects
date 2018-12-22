@@ -75,7 +75,7 @@ All models have five different accuracy scores. We got the first score (default)
 
 Below graph shows the general comparison of the algorithms over our data set and also effects of each step.
 
-<img src="images/comp1.png">
+<img src="images/comp2.png">
 
 
 # 5. Conclusion
@@ -87,8 +87,11 @@ Below graph shows the general comparison of the algorithms over our data set and
       **  Cleaning Outliers made positive effects over all models.
       **  Principal Component Analysis generally made positive effect but did't affect Random Forest Model.
 
+## Mext Step
 
-  
+  * Without full knowledge of each wine’s we can’t get high prediction scores. The results of this study can only serve as an initial look at quality.
+  * It is therefore necessary to validate the reported findings on a more extensive sample set, including, but not limited to, retail price and the year the wine was made.
+
   
 
 
