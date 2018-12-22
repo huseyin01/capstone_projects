@@ -31,7 +31,11 @@ After data wrangling, in order to make some insights and get a better understand
   * Box plots
   * Violin plots
  
-<img src="images/eda.png" width=700>
+Here are some of the plots of EDA:
+
+<img src="images/histogram.png">
+<img src="images/scatter.png">
+<img src="images/box.png">
   
   
 
