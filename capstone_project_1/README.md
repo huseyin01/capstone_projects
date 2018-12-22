@@ -31,7 +31,7 @@ After data wrangling, in order to make some insights and get a better understand
   * Box plots
   * Violin plots
  
-<img src="images/eda.png" width=400>
+<img src="images/eda.png" width=900>
   
   
 
