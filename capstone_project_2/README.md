@@ -20,10 +20,10 @@
 
 
 ## Average F-1 Scores of Different Methods
-<img src="images/ML/all_1.png">
+<img src="04_images/ML/all_1.png">
 
 ## Minor F-1 Scores of Different Methods
-<img src="images/ML/all_2.png">
+<img src="04_images/ML/all_2.png">
   
   
 # 2. Folder and Files Description
