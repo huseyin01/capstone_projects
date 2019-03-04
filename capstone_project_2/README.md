@@ -8,7 +8,7 @@
   Seven different traditional machine learning algorithms used with six different bag of words methods (CountVectorizer, 
   TfIdfVectorizer, HashingVectorizer, PCA with SMOTE Combination, Truncated SVD with SMOTE Combination, Word2Vec).
   
-# 2. Summary for Conclusion
+# 2. Conclusion Summary
   
   In this study, we tried to predict the sentiments of customers based on the reviews left by customers. Here are results of modeling:
 
@@ -26,7 +26,7 @@
 <img src="04_images/ML/all_2.png">
   
   
-# 2. Folder and Files Description
+# 3. Folder and Files Description
      
      a. 01_deliverables:
            01_final_report.pdf: This is a pdf file which explain and visualize whole analysis.
